@@ -1,0 +1,6 @@
+read_verilog project.v
+show -pause
+proc
+show -pause
+opt
+show -pause
